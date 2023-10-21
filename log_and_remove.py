@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# 2023-08-20 by apie
+# Log and remove messages sent to the bot. Useful for tracking habits. The bot saves the message + time in a db.
 import time
 import logging
 from io import StringIO
