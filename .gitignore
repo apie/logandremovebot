@@ -1,0 +1,6 @@
+settings.py
+*.db
+venv/*
+__pycache__/*
+db.json
+
